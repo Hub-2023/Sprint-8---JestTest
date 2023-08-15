@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1692134064302" clover="3.2.0">
-  <project timestamp="1692134064302" name="All files">
+<coverage generated="1692135797978" clover="3.2.0">
+  <project timestamp="1692135797978" name="All files">
     <metrics statements="21" coveredstatements="20" conditionals="4" coveredconditionals="2" methods="9" coveredmethods="9" elements="34" coveredelements="31" complexity="0" loc="21" ncloc="21" packages="1" files="3" classes="3"/>
     <file name="functions.js" path="/Users/roopa/Desktop/workspace/sprint-8-learning-jest/functions/functions.js">
       <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
