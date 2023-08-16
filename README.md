@@ -28,7 +28,7 @@ Note: If you were installing Jest globally on your machine, you would need to in
 
 Now that Jest is installed, let's create a file to write our tests. Jest looks for files inside a `__tests__/` directory or any file ending in `.test.js` or `.spec.js`.
 
-It's a good practice to give your test file the same name as the file you want to test. For example, if you're testing a file named `math.js,` you can make a directory called `__tests__` and put a test file inside called `math.test.js`. This helps keep things organized and clear.
+It's a good practice to give your test file the same name as the file you want to test. For example, if you're testing a file named `math.js`, you can make a folder called `__tests/__` and put a test file inside called `math.test.js`. This helps keep things organized and clear.
 
 Once you have your test files created (we'll cover writing test logic in upcoming exercises), Jest provides a terminal command to run individual test files:
 
