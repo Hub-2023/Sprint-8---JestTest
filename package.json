@@ -2,5 +2,9 @@
   "name": "learning-jest",
   "version": "0.1.0",
   "description": "Learning Jest Testing Framework",
-  "main": "index.js"
+  "main": "index.js",
+  "scripts": {"test":"jest"},
+  "dependencies": {
+    "jest": "^29.6.4"
+  }
 }
