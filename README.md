@@ -339,3 +339,33 @@ As mentioned in the previous section, there are many different matcher methods a
 - [ ] Make sure to keep checking your coverage!
 
 - [ ] Bonus points for anyone who reaches 100% in lines and functionality. 
+
+In Jest:
+
+    The .toBe matcher is used to test exact equality.
+        .toEqual matcher is used to check if arrays are deeply equal.
+        .toBeGreaterThan matcher is used to check if a value is greater than another value.
+        .toBeFalsy and .toBeTruthy matchers are used to check if a value is falsy or truthy.
+        .toBeCloseTo matcher is used to check if a number is close to another number within a certain precision.
+        .toMatch matcher is used to check if a string matches a regular expression or includes a substring.
+        .toThrow matcher is used to check if a function throws an error when it's called.
+        .toBeInstanceOf: Checks that an object is an instance of a class.
+        .toContain: Checks that an item is in an array or that a string contains a substring.
+        .toHaveLength: Checks that an object has a .length property and that it equals the expected length.
+        .toHaveProperty: Checks that an object has a property with a certain value.
+        .toBeLessThanOrEqual: Checks that a value is less than or equal to another value.
+        .toBeGreaterThanOrEqual: Checks that a value is greater than or equal to another value.
+        .toBeDefined: Checks that a variable is defined.
+        .toBeUndefined: Checks that a variable is undefined.
+        .toBeNull: Checks that a variable is null.
+        .toBeNaN: Checks that a variable is NaN.
+        .toBeCalled: Checks that a mock function was called.
+        .toBeCalledTimes: Checks that a mock function was called a certain number of times.
+        .toBeCalledWith: Checks that a mock function was called with certain arguments.
+        .lastCalledWith: Checks that the last call of a mock function was with certain arguments.
+        .nthCalledWith: Checks that the nth call of a mock function was with certain arguments.
+        .toHaveBeenCalledBefore: Checks that a mock function was called before another mock function.
+        .toHaveBeenCalledAfter: Checks that a mock function was called after another mock function.
+        .toHaveBeenNthCalledWith: Checks that the nth call of a mock function was with certain arguments.
+        .toHaveBeenLastCalledWith: Checks that the last call of a mock function was with certain arguments.
+
