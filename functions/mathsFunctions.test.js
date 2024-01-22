@@ -39,14 +39,6 @@ test( "divideNumbers", () =>
 
 // Tests using other matchers
 
-// .toEqual
-test( "subtractNumbers", () =>
-{
-  const expected = 1;
-  const actual = subtractNumbers( 5, 4 );
-  expect( actual ).toEqual( expected );
-} );
-
 // .toBeCloseTo
 test( "multiplyNumbers", () =>
 {

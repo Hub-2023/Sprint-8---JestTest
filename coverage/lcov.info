@@ -24,13 +24,13 @@ FN:33,divideNumbers
 FNF:4
 FNH:4
 FNDA:1,addNumbers
-FNDA:2,subtractNumbers
+FNDA:1,subtractNumbers
 FNDA:2,multiplyNumbers
 FNDA:1,divideNumbers
 DA:8,1
 DA:9,1
-DA:17,2
-DA:18,2
+DA:17,1
+DA:18,1
 DA:26,2
 DA:27,2
 DA:35,1
